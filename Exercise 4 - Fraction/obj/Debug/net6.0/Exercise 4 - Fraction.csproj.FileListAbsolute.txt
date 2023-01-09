@@ -1,0 +1,15 @@
+C:\Users\Minh\source\repos\testing\Exercise 4 - Fraction\bin\Debug\net6.0\Exercise 4 - Fraction.exe
+C:\Users\Minh\source\repos\testing\Exercise 4 - Fraction\bin\Debug\net6.0\Exercise 4 - Fraction.deps.json
+C:\Users\Minh\source\repos\testing\Exercise 4 - Fraction\bin\Debug\net6.0\Exercise 4 - Fraction.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Exercise 4 - Fraction\bin\Debug\net6.0\Exercise 4 - Fraction.dll
+C:\Users\Minh\source\repos\testing\Exercise 4 - Fraction\bin\Debug\net6.0\Exercise 4 - Fraction.pdb
+C:\Users\Minh\source\repos\testing\Exercise 4 - Fraction\obj\Debug\net6.0\Exercise 4 - Fraction.csproj.AssemblyReference.cache
+C:\Users\Minh\source\repos\testing\Exercise 4 - Fraction\obj\Debug\net6.0\Exercise 4 - Fraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\source\repos\testing\Exercise 4 - Fraction\obj\Debug\net6.0\Exercise 4 - Fraction.AssemblyInfoInputs.cache
+C:\Users\Minh\source\repos\testing\Exercise 4 - Fraction\obj\Debug\net6.0\Exercise 4 - Fraction.AssemblyInfo.cs
+C:\Users\Minh\source\repos\testing\Exercise 4 - Fraction\obj\Debug\net6.0\Exercise 4 - Fraction.csproj.CoreCompileInputs.cache
+C:\Users\Minh\source\repos\testing\Exercise 4 - Fraction\obj\Debug\net6.0\Exercise 4 - Fraction.dll
+C:\Users\Minh\source\repos\testing\Exercise 4 - Fraction\obj\Debug\net6.0\refint\Exercise 4 - Fraction.dll
+C:\Users\Minh\source\repos\testing\Exercise 4 - Fraction\obj\Debug\net6.0\Exercise 4 - Fraction.pdb
+C:\Users\Minh\source\repos\testing\Exercise 4 - Fraction\obj\Debug\net6.0\Exercise 4 - Fraction.genruntimeconfig.cache
+C:\Users\Minh\source\repos\testing\Exercise 4 - Fraction\obj\Debug\net6.0\ref\Exercise 4 - Fraction.dll

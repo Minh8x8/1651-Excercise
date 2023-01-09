@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercise 4 - Fraction/1.0.0": {
+        "runtime": {
+          "Exercise 4 - Fraction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise 4 - Fraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

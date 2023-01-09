@@ -1,0 +1,15 @@
+C:\Users\Minh\source\repos\testing\Exercise 2 - Student\bin\Debug\net6.0\Exercise 2 - Student.exe
+C:\Users\Minh\source\repos\testing\Exercise 2 - Student\bin\Debug\net6.0\Exercise 2 - Student.deps.json
+C:\Users\Minh\source\repos\testing\Exercise 2 - Student\bin\Debug\net6.0\Exercise 2 - Student.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Exercise 2 - Student\bin\Debug\net6.0\Exercise 2 - Student.dll
+C:\Users\Minh\source\repos\testing\Exercise 2 - Student\bin\Debug\net6.0\Exercise 2 - Student.pdb
+C:\Users\Minh\source\repos\testing\Exercise 2 - Student\obj\Debug\net6.0\Exercise 2 - Student.csproj.AssemblyReference.cache
+C:\Users\Minh\source\repos\testing\Exercise 2 - Student\obj\Debug\net6.0\Exercise 2 - Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\source\repos\testing\Exercise 2 - Student\obj\Debug\net6.0\Exercise 2 - Student.AssemblyInfoInputs.cache
+C:\Users\Minh\source\repos\testing\Exercise 2 - Student\obj\Debug\net6.0\Exercise 2 - Student.AssemblyInfo.cs
+C:\Users\Minh\source\repos\testing\Exercise 2 - Student\obj\Debug\net6.0\Exercise 2 - Student.csproj.CoreCompileInputs.cache
+C:\Users\Minh\source\repos\testing\Exercise 2 - Student\obj\Debug\net6.0\Exercise 2 - Student.dll
+C:\Users\Minh\source\repos\testing\Exercise 2 - Student\obj\Debug\net6.0\refint\Exercise 2 - Student.dll
+C:\Users\Minh\source\repos\testing\Exercise 2 - Student\obj\Debug\net6.0\Exercise 2 - Student.pdb
+C:\Users\Minh\source\repos\testing\Exercise 2 - Student\obj\Debug\net6.0\Exercise 2 - Student.genruntimeconfig.cache
+C:\Users\Minh\source\repos\testing\Exercise 2 - Student\obj\Debug\net6.0\ref\Exercise 2 - Student.dll

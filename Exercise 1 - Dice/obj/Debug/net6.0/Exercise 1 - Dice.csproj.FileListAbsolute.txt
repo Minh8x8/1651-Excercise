@@ -1,0 +1,15 @@
+C:\Users\Minh\source\repos\testing\Exercise 1 - Dice\bin\Debug\net6.0\Exercise 1 - Dice.exe
+C:\Users\Minh\source\repos\testing\Exercise 1 - Dice\bin\Debug\net6.0\Exercise 1 - Dice.deps.json
+C:\Users\Minh\source\repos\testing\Exercise 1 - Dice\bin\Debug\net6.0\Exercise 1 - Dice.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Exercise 1 - Dice\bin\Debug\net6.0\Exercise 1 - Dice.dll
+C:\Users\Minh\source\repos\testing\Exercise 1 - Dice\bin\Debug\net6.0\Exercise 1 - Dice.pdb
+C:\Users\Minh\source\repos\testing\Exercise 1 - Dice\obj\Debug\net6.0\Exercise 1 - Dice.csproj.AssemblyReference.cache
+C:\Users\Minh\source\repos\testing\Exercise 1 - Dice\obj\Debug\net6.0\Exercise 1 - Dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\source\repos\testing\Exercise 1 - Dice\obj\Debug\net6.0\Exercise 1 - Dice.AssemblyInfoInputs.cache
+C:\Users\Minh\source\repos\testing\Exercise 1 - Dice\obj\Debug\net6.0\Exercise 1 - Dice.AssemblyInfo.cs
+C:\Users\Minh\source\repos\testing\Exercise 1 - Dice\obj\Debug\net6.0\Exercise 1 - Dice.csproj.CoreCompileInputs.cache
+C:\Users\Minh\source\repos\testing\Exercise 1 - Dice\obj\Debug\net6.0\Exercise 1 - Dice.dll
+C:\Users\Minh\source\repos\testing\Exercise 1 - Dice\obj\Debug\net6.0\refint\Exercise 1 - Dice.dll
+C:\Users\Minh\source\repos\testing\Exercise 1 - Dice\obj\Debug\net6.0\Exercise 1 - Dice.pdb
+C:\Users\Minh\source\repos\testing\Exercise 1 - Dice\obj\Debug\net6.0\Exercise 1 - Dice.genruntimeconfig.cache
+C:\Users\Minh\source\repos\testing\Exercise 1 - Dice\obj\Debug\net6.0\ref\Exercise 1 - Dice.dll

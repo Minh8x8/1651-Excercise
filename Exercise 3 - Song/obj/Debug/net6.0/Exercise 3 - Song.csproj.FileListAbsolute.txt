@@ -1,0 +1,15 @@
+C:\Users\Minh\source\repos\testing\Exercise 3 - Song\bin\Debug\net6.0\Exercise 3 - Song.exe
+C:\Users\Minh\source\repos\testing\Exercise 3 - Song\bin\Debug\net6.0\Exercise 3 - Song.deps.json
+C:\Users\Minh\source\repos\testing\Exercise 3 - Song\bin\Debug\net6.0\Exercise 3 - Song.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Exercise 3 - Song\bin\Debug\net6.0\Exercise 3 - Song.dll
+C:\Users\Minh\source\repos\testing\Exercise 3 - Song\bin\Debug\net6.0\Exercise 3 - Song.pdb
+C:\Users\Minh\source\repos\testing\Exercise 3 - Song\obj\Debug\net6.0\Exercise 3 - Song.csproj.AssemblyReference.cache
+C:\Users\Minh\source\repos\testing\Exercise 3 - Song\obj\Debug\net6.0\Exercise 3 - Song.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\source\repos\testing\Exercise 3 - Song\obj\Debug\net6.0\Exercise 3 - Song.AssemblyInfoInputs.cache
+C:\Users\Minh\source\repos\testing\Exercise 3 - Song\obj\Debug\net6.0\Exercise 3 - Song.AssemblyInfo.cs
+C:\Users\Minh\source\repos\testing\Exercise 3 - Song\obj\Debug\net6.0\Exercise 3 - Song.csproj.CoreCompileInputs.cache
+C:\Users\Minh\source\repos\testing\Exercise 3 - Song\obj\Debug\net6.0\Exercise 3 - Song.dll
+C:\Users\Minh\source\repos\testing\Exercise 3 - Song\obj\Debug\net6.0\refint\Exercise 3 - Song.dll
+C:\Users\Minh\source\repos\testing\Exercise 3 - Song\obj\Debug\net6.0\Exercise 3 - Song.pdb
+C:\Users\Minh\source\repos\testing\Exercise 3 - Song\obj\Debug\net6.0\Exercise 3 - Song.genruntimeconfig.cache
+C:\Users\Minh\source\repos\testing\Exercise 3 - Song\obj\Debug\net6.0\ref\Exercise 3 - Song.dll

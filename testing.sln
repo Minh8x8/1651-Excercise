@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 3 - Song", "Exerci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 4 - Fraction", "Exercise 4 - Fraction\Exercise 4 - Fraction.csproj", "{91F3B34F-6A5F-48E6-BE82-2ADEE2F67B24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintStart", "PrintStart\PrintStart.csproj", "{96F66903-EA23-4431-94B1-72D03A0FC263}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{91F3B34F-6A5F-48E6-BE82-2ADEE2F67B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91F3B34F-6A5F-48E6-BE82-2ADEE2F67B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91F3B34F-6A5F-48E6-BE82-2ADEE2F67B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F66903-EA23-4431-94B1-72D03A0FC263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F66903-EA23-4431-94B1-72D03A0FC263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F66903-EA23-4431-94B1-72D03A0FC263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F66903-EA23-4431-94B1-72D03A0FC263}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\Minh\source\repos\testing\PrintStart\bin\Debug\net6.0\PrintStart.exe
+C:\Users\Minh\source\repos\testing\PrintStart\bin\Debug\net6.0\PrintStart.deps.json
+C:\Users\Minh\source\repos\testing\PrintStart\bin\Debug\net6.0\PrintStart.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\PrintStart\bin\Debug\net6.0\PrintStart.dll
+C:\Users\Minh\source\repos\testing\PrintStart\bin\Debug\net6.0\PrintStart.pdb
+C:\Users\Minh\source\repos\testing\PrintStart\obj\Debug\net6.0\PrintStart.csproj.AssemblyReference.cache
+C:\Users\Minh\source\repos\testing\PrintStart\obj\Debug\net6.0\PrintStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\source\repos\testing\PrintStart\obj\Debug\net6.0\PrintStart.AssemblyInfoInputs.cache
+C:\Users\Minh\source\repos\testing\PrintStart\obj\Debug\net6.0\PrintStart.AssemblyInfo.cs
+C:\Users\Minh\source\repos\testing\PrintStart\obj\Debug\net6.0\PrintStart.csproj.CoreCompileInputs.cache
+C:\Users\Minh\source\repos\testing\PrintStart\obj\Debug\net6.0\PrintStart.dll
+C:\Users\Minh\source\repos\testing\PrintStart\obj\Debug\net6.0\refint\PrintStart.dll
+C:\Users\Minh\source\repos\testing\PrintStart\obj\Debug\net6.0\PrintStart.pdb
+C:\Users\Minh\source\repos\testing\PrintStart\obj\Debug\net6.0\PrintStart.genruntimeconfig.cache
+C:\Users\Minh\source\repos\testing\PrintStart\obj\Debug\net6.0\ref\PrintStart.dll

@@ -1,0 +1,15 @@
+C:\Users\Minh\source\repos\testing\Hotel Reservation\obj\Debug\net6.0\Hotel Reservation.csproj.AssemblyReference.cache
+C:\Users\Minh\source\repos\testing\Hotel Reservation\obj\Debug\net6.0\Hotel Reservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\source\repos\testing\Hotel Reservation\obj\Debug\net6.0\Hotel Reservation.AssemblyInfoInputs.cache
+C:\Users\Minh\source\repos\testing\Hotel Reservation\obj\Debug\net6.0\Hotel Reservation.AssemblyInfo.cs
+C:\Users\Minh\source\repos\testing\Hotel Reservation\obj\Debug\net6.0\Hotel Reservation.csproj.CoreCompileInputs.cache
+C:\Users\Minh\source\repos\testing\Hotel Reservation\bin\Debug\net6.0\Hotel Reservation.exe
+C:\Users\Minh\source\repos\testing\Hotel Reservation\bin\Debug\net6.0\Hotel Reservation.deps.json
+C:\Users\Minh\source\repos\testing\Hotel Reservation\bin\Debug\net6.0\Hotel Reservation.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Hotel Reservation\bin\Debug\net6.0\Hotel Reservation.dll
+C:\Users\Minh\source\repos\testing\Hotel Reservation\bin\Debug\net6.0\Hotel Reservation.pdb
+C:\Users\Minh\source\repos\testing\Hotel Reservation\obj\Debug\net6.0\Hotel Reservation.dll
+C:\Users\Minh\source\repos\testing\Hotel Reservation\obj\Debug\net6.0\refint\Hotel Reservation.dll
+C:\Users\Minh\source\repos\testing\Hotel Reservation\obj\Debug\net6.0\Hotel Reservation.pdb
+C:\Users\Minh\source\repos\testing\Hotel Reservation\obj\Debug\net6.0\Hotel Reservation.genruntimeconfig.cache
+C:\Users\Minh\source\repos\testing\Hotel Reservation\obj\Debug\net6.0\ref\Hotel Reservation.dll

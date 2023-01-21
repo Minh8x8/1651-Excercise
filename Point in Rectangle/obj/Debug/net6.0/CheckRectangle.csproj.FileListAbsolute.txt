@@ -1,0 +1,15 @@
+C:\Users\Minh\source\repos\testing\CheckRectangle\bin\Debug\net6.0\CheckRectangle.exe
+C:\Users\Minh\source\repos\testing\CheckRectangle\bin\Debug\net6.0\CheckRectangle.deps.json
+C:\Users\Minh\source\repos\testing\CheckRectangle\bin\Debug\net6.0\CheckRectangle.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\CheckRectangle\bin\Debug\net6.0\CheckRectangle.dll
+C:\Users\Minh\source\repos\testing\CheckRectangle\bin\Debug\net6.0\CheckRectangle.pdb
+C:\Users\Minh\source\repos\testing\CheckRectangle\obj\Debug\net6.0\CheckRectangle.csproj.AssemblyReference.cache
+C:\Users\Minh\source\repos\testing\CheckRectangle\obj\Debug\net6.0\CheckRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\source\repos\testing\CheckRectangle\obj\Debug\net6.0\CheckRectangle.AssemblyInfoInputs.cache
+C:\Users\Minh\source\repos\testing\CheckRectangle\obj\Debug\net6.0\CheckRectangle.AssemblyInfo.cs
+C:\Users\Minh\source\repos\testing\CheckRectangle\obj\Debug\net6.0\CheckRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Minh\source\repos\testing\CheckRectangle\obj\Debug\net6.0\CheckRectangle.dll
+C:\Users\Minh\source\repos\testing\CheckRectangle\obj\Debug\net6.0\refint\CheckRectangle.dll
+C:\Users\Minh\source\repos\testing\CheckRectangle\obj\Debug\net6.0\CheckRectangle.pdb
+C:\Users\Minh\source\repos\testing\CheckRectangle\obj\Debug\net6.0\CheckRectangle.genruntimeconfig.cache
+C:\Users\Minh\source\repos\testing\CheckRectangle\obj\Debug\net6.0\ref\CheckRectangle.dll

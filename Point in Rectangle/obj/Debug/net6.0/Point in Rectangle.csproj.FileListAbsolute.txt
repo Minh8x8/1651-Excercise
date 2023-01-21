@@ -1,0 +1,15 @@
+C:\Users\Minh\source\repos\testing\Point in Rectangle\bin\Debug\net6.0\Point in Rectangle.exe
+C:\Users\Minh\source\repos\testing\Point in Rectangle\bin\Debug\net6.0\Point in Rectangle.deps.json
+C:\Users\Minh\source\repos\testing\Point in Rectangle\bin\Debug\net6.0\Point in Rectangle.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Point in Rectangle\bin\Debug\net6.0\Point in Rectangle.dll
+C:\Users\Minh\source\repos\testing\Point in Rectangle\bin\Debug\net6.0\Point in Rectangle.pdb
+C:\Users\Minh\source\repos\testing\Point in Rectangle\obj\Debug\net6.0\Point in Rectangle.csproj.AssemblyReference.cache
+C:\Users\Minh\source\repos\testing\Point in Rectangle\obj\Debug\net6.0\Point in Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\source\repos\testing\Point in Rectangle\obj\Debug\net6.0\Point in Rectangle.AssemblyInfoInputs.cache
+C:\Users\Minh\source\repos\testing\Point in Rectangle\obj\Debug\net6.0\Point in Rectangle.AssemblyInfo.cs
+C:\Users\Minh\source\repos\testing\Point in Rectangle\obj\Debug\net6.0\Point in Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Minh\source\repos\testing\Point in Rectangle\obj\Debug\net6.0\Point in Rectangle.dll
+C:\Users\Minh\source\repos\testing\Point in Rectangle\obj\Debug\net6.0\refint\Point in Rectangle.dll
+C:\Users\Minh\source\repos\testing\Point in Rectangle\obj\Debug\net6.0\Point in Rectangle.pdb
+C:\Users\Minh\source\repos\testing\Point in Rectangle\obj\Debug\net6.0\Point in Rectangle.genruntimeconfig.cache
+C:\Users\Minh\source\repos\testing\Point in Rectangle\obj\Debug\net6.0\ref\Point in Rectangle.dll

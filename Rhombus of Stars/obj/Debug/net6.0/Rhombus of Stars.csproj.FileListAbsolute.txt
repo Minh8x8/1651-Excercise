@@ -1,0 +1,15 @@
+C:\Users\Minh\source\repos\testing\Rhombus of Stars\bin\Debug\net6.0\Rhombus of Stars.exe
+C:\Users\Minh\source\repos\testing\Rhombus of Stars\bin\Debug\net6.0\Rhombus of Stars.deps.json
+C:\Users\Minh\source\repos\testing\Rhombus of Stars\bin\Debug\net6.0\Rhombus of Stars.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Rhombus of Stars\bin\Debug\net6.0\Rhombus of Stars.dll
+C:\Users\Minh\source\repos\testing\Rhombus of Stars\bin\Debug\net6.0\Rhombus of Stars.pdb
+C:\Users\Minh\source\repos\testing\Rhombus of Stars\obj\Debug\net6.0\Rhombus of Stars.csproj.AssemblyReference.cache
+C:\Users\Minh\source\repos\testing\Rhombus of Stars\obj\Debug\net6.0\Rhombus of Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\source\repos\testing\Rhombus of Stars\obj\Debug\net6.0\Rhombus of Stars.AssemblyInfoInputs.cache
+C:\Users\Minh\source\repos\testing\Rhombus of Stars\obj\Debug\net6.0\Rhombus of Stars.AssemblyInfo.cs
+C:\Users\Minh\source\repos\testing\Rhombus of Stars\obj\Debug\net6.0\Rhombus of Stars.csproj.CoreCompileInputs.cache
+C:\Users\Minh\source\repos\testing\Rhombus of Stars\obj\Debug\net6.0\Rhombus of Stars.dll
+C:\Users\Minh\source\repos\testing\Rhombus of Stars\obj\Debug\net6.0\refint\Rhombus of Stars.dll
+C:\Users\Minh\source\repos\testing\Rhombus of Stars\obj\Debug\net6.0\Rhombus of Stars.pdb
+C:\Users\Minh\source\repos\testing\Rhombus of Stars\obj\Debug\net6.0\Rhombus of Stars.genruntimeconfig.cache
+C:\Users\Minh\source\repos\testing\Rhombus of Stars\obj\Debug\net6.0\ref\Rhombus of Stars.dll

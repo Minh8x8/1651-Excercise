@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Minh\\source\\repos\\testing\\PrintStart\\PrintStart.csproj",
-      "projectName": "PrintStart",
-      "projectPath": "C:\\Users\\Minh\\source\\repos\\testing\\PrintStart\\PrintStart.csproj",
+      "projectUniqueName": "C:\\Users\\Minh\\source\\repos\\testing\\Rhombus of Stars\\Rhombus of Stars.csproj",
+      "projectName": "Rhombus of Stars",
+      "projectPath": "C:\\Users\\Minh\\source\\repos\\testing\\Rhombus of Stars\\Rhombus of Stars.csproj",
       "packagesPath": "C:\\Users\\Minh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Minh\\source\\repos\\testing\\PrintStart\\obj\\",
+      "outputPath": "C:\\Users\\Minh\\source\\repos\\testing\\Rhombus of Stars\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Minh\\AppData\\Roaming\\NuGet\\NuGet.Config",

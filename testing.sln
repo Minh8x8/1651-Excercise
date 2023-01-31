@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 4 - Fraction", "Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintStart", "PrintStart\PrintStart.csproj", "{96F66903-EA23-4431-94B1-72D03A0FC263}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "Person\Person.csproj", "{EE5074F8-48E4-424D-A6CF-A1E6F2A20AE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{96F66903-EA23-4431-94B1-72D03A0FC263}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96F66903-EA23-4431-94B1-72D03A0FC263}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96F66903-EA23-4431-94B1-72D03A0FC263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE5074F8-48E4-424D-A6CF-A1E6F2A20AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5074F8-48E4-424D-A6CF-A1E6F2A20AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5074F8-48E4-424D-A6CF-A1E6F2A20AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5074F8-48E4-424D-A6CF-A1E6F2A20AE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\Minh\source\repos\testing\Reusing Class\bin\Debug\net6.0\Reusing Class.exe
+C:\Users\Minh\source\repos\testing\Reusing Class\bin\Debug\net6.0\Reusing Class.deps.json
+C:\Users\Minh\source\repos\testing\Reusing Class\bin\Debug\net6.0\Reusing Class.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Reusing Class\bin\Debug\net6.0\Reusing Class.dll
+C:\Users\Minh\source\repos\testing\Reusing Class\bin\Debug\net6.0\Reusing Class.pdb
+C:\Users\Minh\source\repos\testing\Reusing Class\obj\Debug\net6.0\Reusing Class.csproj.AssemblyReference.cache
+C:\Users\Minh\source\repos\testing\Reusing Class\obj\Debug\net6.0\Reusing Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\source\repos\testing\Reusing Class\obj\Debug\net6.0\Reusing Class.AssemblyInfoInputs.cache
+C:\Users\Minh\source\repos\testing\Reusing Class\obj\Debug\net6.0\Reusing Class.AssemblyInfo.cs
+C:\Users\Minh\source\repos\testing\Reusing Class\obj\Debug\net6.0\Reusing Class.csproj.CoreCompileInputs.cache
+C:\Users\Minh\source\repos\testing\Reusing Class\obj\Debug\net6.0\Reusing Class.dll
+C:\Users\Minh\source\repos\testing\Reusing Class\obj\Debug\net6.0\refint\Reusing Class.dll
+C:\Users\Minh\source\repos\testing\Reusing Class\obj\Debug\net6.0\Reusing Class.pdb
+C:\Users\Minh\source\repos\testing\Reusing Class\obj\Debug\net6.0\Reusing Class.genruntimeconfig.cache
+C:\Users\Minh\source\repos\testing\Reusing Class\obj\Debug\net6.0\ref\Reusing Class.dll

@@ -1,0 +1,15 @@
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 3. Players and Monsters\bin\Debug\net6.0\Problem 3. Players and Monsters.exe
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 3. Players and Monsters\bin\Debug\net6.0\Problem 3. Players and Monsters.deps.json
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 3. Players and Monsters\bin\Debug\net6.0\Problem 3. Players and Monsters.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 3. Players and Monsters\bin\Debug\net6.0\Problem 3. Players and Monsters.dll
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 3. Players and Monsters\bin\Debug\net6.0\Problem 3. Players and Monsters.pdb
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 3. Players and Monsters\obj\Debug\net6.0\Problem 3. Players and Monsters.csproj.AssemblyReference.cache
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 3. Players and Monsters\obj\Debug\net6.0\Problem 3. Players and Monsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 3. Players and Monsters\obj\Debug\net6.0\Problem 3. Players and Monsters.AssemblyInfoInputs.cache
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 3. Players and Monsters\obj\Debug\net6.0\Problem 3. Players and Monsters.AssemblyInfo.cs
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 3. Players and Monsters\obj\Debug\net6.0\Problem 3. Players and Monsters.csproj.CoreCompileInputs.cache
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 3. Players and Monsters\obj\Debug\net6.0\Problem 3. Players and Monsters.dll
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 3. Players and Monsters\obj\Debug\net6.0\refint\Problem 3. Players and Monsters.dll
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 3. Players and Monsters\obj\Debug\net6.0\Problem 3. Players and Monsters.pdb
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 3. Players and Monsters\obj\Debug\net6.0\Problem 3. Players and Monsters.genruntimeconfig.cache
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 3. Players and Monsters\obj\Debug\net6.0\ref\Problem 3. Players and Monsters.dll

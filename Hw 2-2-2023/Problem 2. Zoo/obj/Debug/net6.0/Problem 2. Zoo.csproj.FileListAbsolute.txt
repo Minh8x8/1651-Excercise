@@ -1,0 +1,15 @@
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 2. Zoo\bin\Debug\net6.0\Problem 2. Zoo.exe
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 2. Zoo\bin\Debug\net6.0\Problem 2. Zoo.deps.json
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 2. Zoo\bin\Debug\net6.0\Problem 2. Zoo.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 2. Zoo\bin\Debug\net6.0\Problem 2. Zoo.dll
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 2. Zoo\bin\Debug\net6.0\Problem 2. Zoo.pdb
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 2. Zoo\obj\Debug\net6.0\Problem 2. Zoo.csproj.AssemblyReference.cache
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 2. Zoo\obj\Debug\net6.0\Problem 2. Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 2. Zoo\obj\Debug\net6.0\Problem 2. Zoo.AssemblyInfoInputs.cache
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 2. Zoo\obj\Debug\net6.0\Problem 2. Zoo.AssemblyInfo.cs
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 2. Zoo\obj\Debug\net6.0\Problem 2. Zoo.csproj.CoreCompileInputs.cache
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 2. Zoo\obj\Debug\net6.0\Problem 2. Zoo.dll
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 2. Zoo\obj\Debug\net6.0\refint\Problem 2. Zoo.dll
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 2. Zoo\obj\Debug\net6.0\Problem 2. Zoo.pdb
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 2. Zoo\obj\Debug\net6.0\Problem 2. Zoo.genruntimeconfig.cache
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 2. Zoo\obj\Debug\net6.0\ref\Problem 2. Zoo.dll

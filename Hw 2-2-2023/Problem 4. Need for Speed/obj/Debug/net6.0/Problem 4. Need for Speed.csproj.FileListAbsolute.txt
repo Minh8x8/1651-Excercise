@@ -1,0 +1,15 @@
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 4. Need for Speed\bin\Debug\net6.0\Problem 4. Need for Speed.exe
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 4. Need for Speed\bin\Debug\net6.0\Problem 4. Need for Speed.deps.json
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 4. Need for Speed\bin\Debug\net6.0\Problem 4. Need for Speed.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 4. Need for Speed\bin\Debug\net6.0\Problem 4. Need for Speed.dll
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 4. Need for Speed\bin\Debug\net6.0\Problem 4. Need for Speed.pdb
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 4. Need for Speed\obj\Debug\net6.0\Problem 4. Need for Speed.csproj.AssemblyReference.cache
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 4. Need for Speed\obj\Debug\net6.0\Problem 4. Need for Speed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 4. Need for Speed\obj\Debug\net6.0\Problem 4. Need for Speed.AssemblyInfoInputs.cache
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 4. Need for Speed\obj\Debug\net6.0\Problem 4. Need for Speed.AssemblyInfo.cs
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 4. Need for Speed\obj\Debug\net6.0\Problem 4. Need for Speed.csproj.CoreCompileInputs.cache
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 4. Need for Speed\obj\Debug\net6.0\Problem 4. Need for Speed.dll
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 4. Need for Speed\obj\Debug\net6.0\refint\Problem 4. Need for Speed.dll
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 4. Need for Speed\obj\Debug\net6.0\Problem 4. Need for Speed.pdb
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 4. Need for Speed\obj\Debug\net6.0\Problem 4. Need for Speed.genruntimeconfig.cache
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 4. Need for Speed\obj\Debug\net6.0\ref\Problem 4. Need for Speed.dll

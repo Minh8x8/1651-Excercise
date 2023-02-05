@@ -1,0 +1,15 @@
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 5. Restaurant\Problem 5. Restaurant\bin\Debug\net6.0\Problem 5. Restaurant.exe
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 5. Restaurant\Problem 5. Restaurant\bin\Debug\net6.0\Problem 5. Restaurant.deps.json
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 5. Restaurant\Problem 5. Restaurant\bin\Debug\net6.0\Problem 5. Restaurant.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 5. Restaurant\Problem 5. Restaurant\bin\Debug\net6.0\Problem 5. Restaurant.dll
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 5. Restaurant\Problem 5. Restaurant\bin\Debug\net6.0\Problem 5. Restaurant.pdb
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 5. Restaurant\Problem 5. Restaurant\obj\Debug\net6.0\Problem 5. Restaurant.csproj.AssemblyReference.cache
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 5. Restaurant\Problem 5. Restaurant\obj\Debug\net6.0\Problem 5. Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 5. Restaurant\Problem 5. Restaurant\obj\Debug\net6.0\Problem 5. Restaurant.AssemblyInfoInputs.cache
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 5. Restaurant\Problem 5. Restaurant\obj\Debug\net6.0\Problem 5. Restaurant.AssemblyInfo.cs
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 5. Restaurant\Problem 5. Restaurant\obj\Debug\net6.0\Problem 5. Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 5. Restaurant\Problem 5. Restaurant\obj\Debug\net6.0\Problem 5. Restaurant.dll
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 5. Restaurant\Problem 5. Restaurant\obj\Debug\net6.0\refint\Problem 5. Restaurant.dll
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 5. Restaurant\Problem 5. Restaurant\obj\Debug\net6.0\Problem 5. Restaurant.pdb
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 5. Restaurant\Problem 5. Restaurant\obj\Debug\net6.0\Problem 5. Restaurant.genruntimeconfig.cache
+C:\Users\Minh\source\repos\testing\Hw 2-2-2023\Problem 5. Restaurant\Problem 5. Restaurant\obj\Debug\net6.0\ref\Problem 5. Restaurant.dll

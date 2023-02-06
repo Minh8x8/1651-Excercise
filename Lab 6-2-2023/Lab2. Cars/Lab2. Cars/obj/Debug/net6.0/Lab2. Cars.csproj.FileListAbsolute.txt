@@ -1,0 +1,15 @@
+C:\Users\Minh\source\repos\testing\Lab 6-2-2023\Lab2. Cars\Lab2. Cars\bin\Debug\net6.0\Lab2. Cars.exe
+C:\Users\Minh\source\repos\testing\Lab 6-2-2023\Lab2. Cars\Lab2. Cars\bin\Debug\net6.0\Lab2. Cars.deps.json
+C:\Users\Minh\source\repos\testing\Lab 6-2-2023\Lab2. Cars\Lab2. Cars\bin\Debug\net6.0\Lab2. Cars.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Lab 6-2-2023\Lab2. Cars\Lab2. Cars\bin\Debug\net6.0\Lab2. Cars.dll
+C:\Users\Minh\source\repos\testing\Lab 6-2-2023\Lab2. Cars\Lab2. Cars\bin\Debug\net6.0\Lab2. Cars.pdb
+C:\Users\Minh\source\repos\testing\Lab 6-2-2023\Lab2. Cars\Lab2. Cars\obj\Debug\net6.0\Lab2. Cars.csproj.AssemblyReference.cache
+C:\Users\Minh\source\repos\testing\Lab 6-2-2023\Lab2. Cars\Lab2. Cars\obj\Debug\net6.0\Lab2. Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\source\repos\testing\Lab 6-2-2023\Lab2. Cars\Lab2. Cars\obj\Debug\net6.0\Lab2. Cars.AssemblyInfoInputs.cache
+C:\Users\Minh\source\repos\testing\Lab 6-2-2023\Lab2. Cars\Lab2. Cars\obj\Debug\net6.0\Lab2. Cars.AssemblyInfo.cs
+C:\Users\Minh\source\repos\testing\Lab 6-2-2023\Lab2. Cars\Lab2. Cars\obj\Debug\net6.0\Lab2. Cars.csproj.CoreCompileInputs.cache
+C:\Users\Minh\source\repos\testing\Lab 6-2-2023\Lab2. Cars\Lab2. Cars\obj\Debug\net6.0\Lab2. Cars.dll
+C:\Users\Minh\source\repos\testing\Lab 6-2-2023\Lab2. Cars\Lab2. Cars\obj\Debug\net6.0\refint\Lab2. Cars.dll
+C:\Users\Minh\source\repos\testing\Lab 6-2-2023\Lab2. Cars\Lab2. Cars\obj\Debug\net6.0\Lab2. Cars.pdb
+C:\Users\Minh\source\repos\testing\Lab 6-2-2023\Lab2. Cars\Lab2. Cars\obj\Debug\net6.0\Lab2. Cars.genruntimeconfig.cache
+C:\Users\Minh\source\repos\testing\Lab 6-2-2023\Lab2. Cars\Lab2. Cars\obj\Debug\net6.0\ref\Lab2. Cars.dll

@@ -1,0 +1,42 @@
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1. Define an Interface IPerson\Problem 2. Multiple Implementation\obj\Debug\net6.0\Problem 2. Multiple Implementation.csproj.AssemblyReference.cache
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1. Define an Interface IPerson\Problem 2. Multiple Implementation\obj\Debug\net6.0\Problem 2. Multiple Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1. Define an Interface IPerson\Problem 2. Multiple Implementation\obj\Debug\net6.0\Problem 2. Multiple Implementation.AssemblyInfoInputs.cache
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1. Define an Interface IPerson\Problem 2. Multiple Implementation\obj\Debug\net6.0\Problem 2. Multiple Implementation.AssemblyInfo.cs
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1. Define an Interface IPerson\Problem 2. Multiple Implementation\obj\Debug\net6.0\Problem 2. Multiple Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1. Define an Interface IPerson\Problem 2. Multiple Implementation\bin\Debug\net6.0\Problem 1. Define an Interface IPerson.deps.json
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1. Define an Interface IPerson\Problem 2. Multiple Implementation\bin\Debug\net6.0\Problem 1. Define an Interface IPerson.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1. Define an Interface IPerson\Problem 2. Multiple Implementation\bin\Debug\net6.0\Problem 1. Define an Interface IPerson.exe
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1. Define an Interface IPerson\Problem 2. Multiple Implementation\bin\Debug\net6.0\Problem 2. Multiple Implementation.exe
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1. Define an Interface IPerson\Problem 2. Multiple Implementation\bin\Debug\net6.0\Problem 2. Multiple Implementation.deps.json
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1. Define an Interface IPerson\Problem 2. Multiple Implementation\bin\Debug\net6.0\Problem 2. Multiple Implementation.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1. Define an Interface IPerson\Problem 2. Multiple Implementation\bin\Debug\net6.0\Problem 2. Multiple Implementation.dll
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1. Define an Interface IPerson\Problem 2. Multiple Implementation\bin\Debug\net6.0\Problem 2. Multiple Implementation.pdb
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1. Define an Interface IPerson\Problem 2. Multiple Implementation\bin\Debug\net6.0\Problem 1. Define an Interface IPerson.dll
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1. Define an Interface IPerson\Problem 2. Multiple Implementation\bin\Debug\net6.0\Problem 1. Define an Interface IPerson.pdb
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1. Define an Interface IPerson\Problem 2. Multiple Implementation\obj\Debug\net6.0\Problem 2. Multiple Implementation.csproj.CopyComplete
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1. Define an Interface IPerson\Problem 2. Multiple Implementation\obj\Debug\net6.0\Problem 2. Multiple Implementation.dll
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1. Define an Interface IPerson\Problem 2. Multiple Implementation\obj\Debug\net6.0\refint\Problem 2. Multiple Implementation.dll
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1. Define an Interface IPerson\Problem 2. Multiple Implementation\obj\Debug\net6.0\Problem 2. Multiple Implementation.pdb
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1. Define an Interface IPerson\Problem 2. Multiple Implementation\obj\Debug\net6.0\Problem 2. Multiple Implementation.genruntimeconfig.cache
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1. Define an Interface IPerson\Problem 2. Multiple Implementation\obj\Debug\net6.0\ref\Problem 2. Multiple Implementation.dll
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 2. Multiple Implementation\bin\Debug\net6.0\Problem 1. Define an Interface IPerson.deps.json
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 2. Multiple Implementation\bin\Debug\net6.0\Problem 1. Define an Interface IPerson.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 2. Multiple Implementation\bin\Debug\net6.0\Problem 1. Define an Interface IPerson.exe
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 2. Multiple Implementation\bin\Debug\net6.0\Problem 2. Multiple Implementation.exe
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 2. Multiple Implementation\bin\Debug\net6.0\Problem 2. Multiple Implementation.deps.json
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 2. Multiple Implementation\bin\Debug\net6.0\Problem 2. Multiple Implementation.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 2. Multiple Implementation\bin\Debug\net6.0\Problem 2. Multiple Implementation.dll
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 2. Multiple Implementation\bin\Debug\net6.0\Problem 2. Multiple Implementation.pdb
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 2. Multiple Implementation\bin\Debug\net6.0\Problem 1. Define an Interface IPerson.dll
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 2. Multiple Implementation\bin\Debug\net6.0\Problem 1. Define an Interface IPerson.pdb
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 2. Multiple Implementation\obj\Debug\net6.0\Problem 2. Multiple Implementation.csproj.AssemblyReference.cache
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 2. Multiple Implementation\obj\Debug\net6.0\Problem 2. Multiple Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 2. Multiple Implementation\obj\Debug\net6.0\Problem 2. Multiple Implementation.AssemblyInfoInputs.cache
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 2. Multiple Implementation\obj\Debug\net6.0\Problem 2. Multiple Implementation.AssemblyInfo.cs
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 2. Multiple Implementation\obj\Debug\net6.0\Problem 2. Multiple Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 2. Multiple Implementation\obj\Debug\net6.0\Problem 2. Multiple Implementation.csproj.CopyComplete
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 2. Multiple Implementation\obj\Debug\net6.0\Problem 2. Multiple Implementation.dll
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 2. Multiple Implementation\obj\Debug\net6.0\refint\Problem 2. Multiple Implementation.dll
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 2. Multiple Implementation\obj\Debug\net6.0\Problem 2. Multiple Implementation.pdb
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 2. Multiple Implementation\obj\Debug\net6.0\Problem 2. Multiple Implementation.genruntimeconfig.cache
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 2. Multiple Implementation\obj\Debug\net6.0\ref\Problem 2. Multiple Implementation.dll

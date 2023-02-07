@@ -1,0 +1,181 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Problem 1. Define an Interface IPerson/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Problem 1. Define an Interface IPerson.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Problem 1. Define an Interface IPerson.dll": {}
+        }
+      },
+      "Problem 2. Multiple Implementation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Problem 1. Define an Interface IPerson": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Problem 2. Multiple Implementation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Problem 2. Multiple Implementation.dll": {}
+        }
+      },
+      "Problem 3.  Telephony/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Problem 3.  Telephony.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Problem 3.  Telephony.dll": {}
+        }
+      },
+      "Problem 4. Border Control/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Problem 1. Define an Interface IPerson": "1.0.0",
+          "Problem 2. Multiple Implementation": "1.0.0",
+          "Problem 3.  Telephony": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Problem 4. Border Control.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Problem 4. Border Control.dll": {}
+        }
+      },
+      "Problem 5. Birthday/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Problem 1. Define an Interface IPerson": "1.0.0",
+          "Problem 2. Multiple Implementation": "1.0.0",
+          "Problem 3.  Telephony": "1.0.0",
+          "Problem 4. Border Control": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Problem 5. Birthday.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Problem 5. Birthday.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem 1. Define an Interface IPerson/1.0.0": {
+      "type": "project",
+      "path": "../Problem 1. Define an Interface IPerson/Problem 1. Define an Interface IPerson.csproj",
+      "msbuildProject": "../Problem 1. Define an Interface IPerson/Problem 1. Define an Interface IPerson.csproj"
+    },
+    "Problem 2. Multiple Implementation/1.0.0": {
+      "type": "project",
+      "path": "../Problem 2. Multiple Implementation/Problem 2. Multiple Implementation.csproj",
+      "msbuildProject": "../Problem 2. Multiple Implementation/Problem 2. Multiple Implementation.csproj"
+    },
+    "Problem 3.  Telephony/1.0.0": {
+      "type": "project",
+      "path": "../../Problem 3.  Telephony/Problem 3.  Telephony.csproj",
+      "msbuildProject": "../../Problem 3.  Telephony/Problem 3.  Telephony.csproj"
+    },
+    "Problem 4. Border Control/1.0.0": {
+      "type": "project",
+      "path": "../Problem 4. Border Control/Problem 4. Border Control.csproj",
+      "msbuildProject": "../Problem 4. Border Control/Problem 4. Border Control.csproj"
+    },
+    "Problem 5. Birthday/1.0.0": {
+      "type": "project",
+      "path": "../Problem 5. Birthday/Problem 5. Birthday.csproj",
+      "msbuildProject": "../Problem 5. Birthday/Problem 5. Birthday.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Problem 1. Define an Interface IPerson >= 1.0.0",
+      "Problem 2. Multiple Implementation >= 1.0.0",
+      "Problem 3.  Telephony >= 1.0.0",
+      "Problem 4. Border Control >= 1.0.0",
+      "Problem 5. Birthday >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Minh\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Minh\\source\\repos\\testing\\Hw 6-2-2023\\Problem 1 and 2\\Problem 6. Food Shortage\\Problem 6. Food Shortage.csproj",
+      "projectName": "Problem 6. Food Shortage",
+      "projectPath": "C:\\Users\\Minh\\source\\repos\\testing\\Hw 6-2-2023\\Problem 1 and 2\\Problem 6. Food Shortage\\Problem 6. Food Shortage.csproj",
+      "packagesPath": "C:\\Users\\Minh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Minh\\source\\repos\\testing\\Hw 6-2-2023\\Problem 1 and 2\\Problem 6. Food Shortage\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Minh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Minh\\source\\repos\\testing\\Hw 6-2-2023\\Problem 1 and 2\\Problem 1. Define an Interface IPerson\\Problem 1. Define an Interface IPerson.csproj": {
+              "projectPath": "C:\\Users\\Minh\\source\\repos\\testing\\Hw 6-2-2023\\Problem 1 and 2\\Problem 1. Define an Interface IPerson\\Problem 1. Define an Interface IPerson.csproj"
+            },
+            "C:\\Users\\Minh\\source\\repos\\testing\\Hw 6-2-2023\\Problem 1 and 2\\Problem 2. Multiple Implementation\\Problem 2. Multiple Implementation.csproj": {
+              "projectPath": "C:\\Users\\Minh\\source\\repos\\testing\\Hw 6-2-2023\\Problem 1 and 2\\Problem 2. Multiple Implementation\\Problem 2. Multiple Implementation.csproj"
+            },
+            "C:\\Users\\Minh\\source\\repos\\testing\\Hw 6-2-2023\\Problem 1 and 2\\Problem 4. Border Control\\Problem 4. Border Control.csproj": {
+              "projectPath": "C:\\Users\\Minh\\source\\repos\\testing\\Hw 6-2-2023\\Problem 1 and 2\\Problem 4. Border Control\\Problem 4. Border Control.csproj"
+            },
+            "C:\\Users\\Minh\\source\\repos\\testing\\Hw 6-2-2023\\Problem 1 and 2\\Problem 5. Birthday\\Problem 5. Birthday.csproj": {
+              "projectPath": "C:\\Users\\Minh\\source\\repos\\testing\\Hw 6-2-2023\\Problem 1 and 2\\Problem 5. Birthday\\Problem 5. Birthday.csproj"
+            },
+            "C:\\Users\\Minh\\source\\repos\\testing\\Hw 6-2-2023\\Problem 3.  Telephony\\Problem 3.  Telephony.csproj": {
+              "projectPath": "C:\\Users\\Minh\\source\\repos\\testing\\Hw 6-2-2023\\Problem 3.  Telephony\\Problem 3.  Telephony.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

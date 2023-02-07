@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Problem 1. Define an Interface IPerson/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Problem 1. Define an Interface IPerson.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Problem 1. Define an Interface IPerson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem 1. Define an Interface IPerson/1.0.0": {
+      "type": "project",
+      "path": "../Problem 1. Define an Interface IPerson/Problem 1. Define an Interface IPerson.csproj",
+      "msbuildProject": "../Problem 1. Define an Interface IPerson/Problem 1. Define an Interface IPerson.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Problem 1. Define an Interface IPerson >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Minh\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Minh\\source\\repos\\testing\\Hw 6-2-2023\\Problem 1 and 2\\Problem 2. Multiple Implementation\\Problem 2. Multiple Implementation.csproj",
+      "projectName": "Problem 2. Multiple Implementation",
+      "projectPath": "C:\\Users\\Minh\\source\\repos\\testing\\Hw 6-2-2023\\Problem 1 and 2\\Problem 2. Multiple Implementation\\Problem 2. Multiple Implementation.csproj",
+      "packagesPath": "C:\\Users\\Minh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Minh\\source\\repos\\testing\\Hw 6-2-2023\\Problem 1 and 2\\Problem 2. Multiple Implementation\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Minh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Minh\\source\\repos\\testing\\Hw 6-2-2023\\Problem 1 and 2\\Problem 1. Define an Interface IPerson\\Problem 1. Define an Interface IPerson.csproj": {
+              "projectPath": "C:\\Users\\Minh\\source\\repos\\testing\\Hw 6-2-2023\\Problem 1 and 2\\Problem 1. Define an Interface IPerson\\Problem 1. Define an Interface IPerson.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

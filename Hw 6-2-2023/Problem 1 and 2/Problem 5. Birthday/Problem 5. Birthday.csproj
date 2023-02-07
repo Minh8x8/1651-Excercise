@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>Problem_5._Birthday</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\Problem 3.  Telephony\Problem 3.  Telephony.csproj" />
+      <ProjectReference Include="..\Problem 1. Define an Interface IPerson\Problem 1. Define an Interface IPerson.csproj" />
+      <ProjectReference Include="..\Problem 2. Multiple Implementation\Problem 2. Multiple Implementation.csproj" />
+      <ProjectReference Include="..\Problem 4. Border Control\Problem 4. Border Control.csproj" />
+    </ItemGroup>
+
+</Project>

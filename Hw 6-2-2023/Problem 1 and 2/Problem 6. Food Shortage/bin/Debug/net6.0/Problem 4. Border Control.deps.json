@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Problem 4. Border Control/1.0.0": {
+        "runtime": {
+          "Problem 4. Border Control.dll": {}
+        }
+      },
+      "Problem 1. Define an Interface IPerson/1.0.0": {
+        "runtime": {
+          "Problem 1. Define an Interface IPerson.dll": {}
+        }
+      },
+      "Problem 2. Multiple Implementation/1.0.0": {
+        "dependencies": {
+          "Problem 1. Define an Interface IPerson": "1.0.0"
+        },
+        "runtime": {
+          "Problem 2. Multiple Implementation.dll": {}
+        }
+      },
+      "Problem 3.  Telephony/1.0.0": {
+        "runtime": {
+          "Problem 3.  Telephony.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem 4. Border Control/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Problem 1. Define an Interface IPerson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Problem 2. Multiple Implementation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Problem 3.  Telephony/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

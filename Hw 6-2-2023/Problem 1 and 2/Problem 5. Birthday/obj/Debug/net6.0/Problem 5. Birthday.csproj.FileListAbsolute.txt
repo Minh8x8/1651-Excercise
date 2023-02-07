@@ -1,0 +1,36 @@
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 3.  Telephony.deps.json
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 3.  Telephony.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 3.  Telephony.exe
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 1. Define an Interface IPerson.deps.json
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 1. Define an Interface IPerson.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 1. Define an Interface IPerson.exe
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 2. Multiple Implementation.deps.json
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 2. Multiple Implementation.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 2. Multiple Implementation.exe
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 4. Border Control.deps.json
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 4. Border Control.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 4. Border Control.exe
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 5. Birthday.exe
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 5. Birthday.deps.json
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 5. Birthday.runtimeconfig.json
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 5. Birthday.dll
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 5. Birthday.pdb
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 1. Define an Interface IPerson.dll
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 2. Multiple Implementation.dll
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 3.  Telephony.dll
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 4. Border Control.dll
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 3.  Telephony.pdb
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 1. Define an Interface IPerson.pdb
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 2. Multiple Implementation.pdb
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\bin\Debug\net6.0\Problem 4. Border Control.pdb
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\obj\Debug\net6.0\Problem 5. Birthday.csproj.AssemblyReference.cache
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\obj\Debug\net6.0\Problem 5. Birthday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\obj\Debug\net6.0\Problem 5. Birthday.AssemblyInfoInputs.cache
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\obj\Debug\net6.0\Problem 5. Birthday.AssemblyInfo.cs
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\obj\Debug\net6.0\Problem 5. Birthday.csproj.CoreCompileInputs.cache
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\obj\Debug\net6.0\Problem 5. Birthday.csproj.CopyComplete
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\obj\Debug\net6.0\Problem 5. Birthday.dll
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\obj\Debug\net6.0\refint\Problem 5. Birthday.dll
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\obj\Debug\net6.0\Problem 5. Birthday.pdb
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\obj\Debug\net6.0\Problem 5. Birthday.genruntimeconfig.cache
+C:\Users\Minh\source\repos\testing\Hw 6-2-2023\Problem 1 and 2\Problem 5. Birthday\obj\Debug\net6.0\ref\Problem 5. Birthday.dll
